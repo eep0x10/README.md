@@ -1,5 +1,10 @@
 File  Action  Edit  View  Help
 
+
+
+
+
+
 ┌──(shreyas㉿GitHub)-[~]
 
 └─$ cat about-me
@@ -8,9 +13,7 @@ File  Action  Edit  View  Help
 
 ⁍ Name  : Eric Paulo
 
-
 ⁍ Job   : Offensive Security Analyst / Pentester
-
 
 ⁍ Study : Computer Science Bacharelor
 
