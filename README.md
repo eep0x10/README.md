@@ -5,7 +5,8 @@ File  Action  Edit  View  Help
 
 
 
-┌──(shreyas㉿GitHub)-[~]
+┌──(shreyas㉿GitHub)-[#]
+
 └─$ cat about-me
 
 
