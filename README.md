@@ -1,16 +1,16 @@
 ```
-File  Action  Edit  View  Help
+File | Action | Edit | View | Help
 
 
 
 
-┌──(shreyas㉿GitHub)-[#]
-└─$ cat about-me
-
+┌──(eep0x10㉿GitHub)-[#]
+└─$ cat about_me.md
 
 ⁍ Name  : Eric Paulo
 ⁍ Job   : Offensive Security Analyst / Pentester
 ⁍ Study : Computer Science Bacharelor
+⁍ Contact : https://www.linkedin.com/in/eep0x/
 
 : Certifications 
 ==> DCPT  (Desec Certified Penetration Tester)
