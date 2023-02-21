@@ -5,7 +5,7 @@ File | Action | Edit | View | Help
 
 
 ┌──(eep0x10㉿GitHub)-[#]
-└─$ cat about_me.md
+└─$ cat whoami.md
 
 ⁍ Name  : Eric Paulo
 ⁍ Job   : Offensive Security Analyst / Pentester
