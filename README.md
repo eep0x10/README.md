@@ -9,7 +9,7 @@ File | Action | Edit | View | Help
 
 ⁍ Name  : Eric Paulo
 ⁍ Job   : Offensive Security Analyst / Pentester
-⁍ Study : Computer Science Bacharelor
+⁍ Study : Computer Science Bacharelor + Post Graduate Degree Red Team Ops 
 ⁍ Contact : https://www.linkedin.com/in/eep0x/
 
 : Certifications 
