@@ -17,7 +17,14 @@ File | Action | Edit | View | Help
 ==> OSCP  (Offensive Security Certified Professional)
 ==> eMAPT (Mobile Application Penetration Tester)
 
-: Study
+: Goals4Life
 ==> OSWE (in Progress)
+==> OSEP
+==> OSED
+==> CRTO (in Progress) & CRTO 2
+==> CRTP & CRTE
+==> CARTE (Azure)
+==> ARTE (AWS)
+==> GRTE (Google)
 ```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eep0x10&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaschavhan" /> </p>
